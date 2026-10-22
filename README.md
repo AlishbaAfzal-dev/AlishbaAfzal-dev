@@ -1,135 +1,135 @@
-# 🌐 Project Name
+<div align="center">
 
-> A short one-line description of your website (e.g. "A responsive and modern portfolio website built with HTML, CSS and JavaScript").
+# 🚀 Project Name
 
-![Status](https://img.shields.io/badge/status-completed-brightgreen)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+### Ek modern aur responsive front-end website
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+[🔗 Live Demo](https://your-username.github.io/your-repo-name/) •
+[🐛 Report Bug](https://github.com/your-username/your-repo-name/issues) •
+[💡 Request Feature](https://github.com/your-username/your-repo-name/issues)
+
+</div>
 
 ---
 
-## 📌 About The Project
+## 📑 Table of Contents
 
-This project is a **front-end website** that I built as part of my internship / learning journey as a Front-End Developer. The goal was to practice building clean, responsive and user-friendly web pages.
+- [About](#-about)
+- [Features](#-features)
+- [Tech Stack](#-tech-stack)
+- [Screenshots](#-screenshots)
+- [Installation](#-installation)
+- [Folder Structure](#-folder-structure)
+- [What I Learned](#-what-i-learned)
+- [Author](#-author)
 
-**What this project demonstrates:**
-- Structuring pages with semantic HTML
-- Styling with modern CSS (Flexbox / Grid)
-- Making the layout responsive for mobile, tablet and desktop
-- Adding interactivity with JavaScript
+---
+
+## 📌 About
+
+Ye project maine **Front-End Developer Intern** ke taur par banaya hai. Is ka maqsad ek clean, fast aur har device par sahi chalne wali website banana tha.
 
 ---
 
 ## ✨ Features
 
-- 📱 Fully responsive design
-- 🎨 Clean and modern UI
-- ⚡ Fast loading and lightweight
-- 🧭 Easy navigation
-- 🔧 Well-organized and readable code
+- 📱 Fully responsive (mobile, tablet, desktop)
+- 🎨 Modern aur clean UI design
+- ⚡ Tez loading aur lightweight
+- 🧭 Smooth navigation
+- 🌙 Dark mode (optional)
+- ♿ Accessible aur SEO friendly structure
 
 ---
 
-## 🛠️ Built With
+## 🛠️ Tech Stack
 
-| Technology | Purpose |
-|------------|---------|
-| HTML5 | Page structure |
-| CSS3 | Styling and layout |
-| JavaScript | Interactivity |
-| Git & GitHub | Version control |
-
-*(Add React, Bootstrap, Tailwind etc. here if you used them.)*
+| Technology | Use |
+|:-----------|:----|
+| **HTML5** | Semantic page structure |
+| **CSS3** | Flexbox, Grid, animations |
+| **JavaScript** | DOM manipulation, interactivity |
+| **Git / GitHub** | Version control |
 
 ---
 
 ## 📸 Screenshots
 
-| Home Page | Mobile View |
-|-----------|-------------|
-| ![Home](screenshots/home.png) | ![Mobile](screenshots/mobile.png) |
+<div align="center">
 
-*(Create a `screenshots` folder, add your images, and update the file names above.)*
+| Desktop View | Mobile View |
+|:------------:|:-----------:|
+| <img src="screenshots/desktop.png" width="400"/> | <img src="screenshots/mobile.png" width="150"/> |
+
+</div>
 
 ---
 
-## 🚀 Live Demo
+## ⚙️ Installation
 
-🔗 **[View Live Website](https://your-username.github.io/your-repo-name/)**
+```bash
+# 1. Repository clone karein
+git clone https://github.com/your-username/your-repo-name.git
+
+# 2. Folder mein jayein
+cd your-repo-name
+
+# 3. index.html ko browser mein open karein
+```
+
+> 💡 **Tip:** VS Code mein *Live Server* extension use karein.
 
 ---
 
 ## 📂 Folder Structure
 
 ```
-project-name/
-│── index.html
-│── css/
+your-repo-name/
+├── index.html
+├── css/
 │   └── style.css
-│── js/
+├── js/
 │   └── script.js
-│── images/
-│── screenshots/
-│── README.md
+├── images/
+├── screenshots/
+└── README.md
 ```
-
----
-
-## ⚙️ How To Run Locally
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   ```
-2. **Open the project folder**
-   ```bash
-   cd your-repo-name
-   ```
-3. **Open `index.html`** in your browser
-   (or use the *Live Server* extension in VS Code)
 
 ---
 
 ## 📚 What I Learned
 
-- How to build responsive layouts using Flexbox and Grid
-- Writing clean and reusable CSS
-- Basic DOM manipulation with JavaScript
-- Using Git and GitHub for version control
-
----
-
-## 🔮 Future Improvements
-
-- [ ] Add dark mode
-- [ ] Improve accessibility
-- [ ] Add more pages / sections
-- [ ] Optimize performance
+- ✅ Responsive layouts (Flexbox & Grid)
+- ✅ Clean aur reusable CSS likhna
+- ✅ JavaScript se DOM handle karna
+- ✅ Git aur GitHub ka workflow
 
 ---
 
 ## 👩‍💻 Author
 
-**Alishba Afzal**
+<div align="center">
+
+### **Alishba Afzal**
 Front-End Developer Intern | 3rd Semester Student
 
-- 🐙 GitHub: [@your-github-username](https://github.com/your-github-username)
-- 💼 LinkedIn: [Your Name](https://www.linkedin.com/in/your-linkedin/)
-- 📧 Email: your-email@example.com
+[![GitHub](https://img.shields.io/badge/GitHub-your--username-181717?style=flat&logo=github)](https://github.com/your-username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+
+</div>
 
 ---
 
-## 🤝 Contributing
+<div align="center">
 
-Suggestions and feedback are always welcome! Feel free to open an issue or submit a pull request.
+⭐ **Agar project pasand aaye to star zaroor dein!** ⭐
 
----
+Made with ❤️ by Alishba Afzal
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
-⭐ If you like this project, please give it a star — it motivates me to keep learning and building!
+</div>
